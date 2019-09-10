@@ -42,7 +42,7 @@
             android:id="@+id/tv_deskripsi"
             style="@style/TextContent"
             android:layout_marginTop="@dimen/activity_horizontal_margin"
-            android:text="deskripsi" />
+            android:text="Deskripsi" />
     </LinearLayout>
 
 </ScrollView>
